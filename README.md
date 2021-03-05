@@ -6,6 +6,7 @@ Ecommerce website to buy cryptocurrencies.
 
 -   React Application
 -   Commerce js API (https://commercejs.com/)
+-   Stripe
 -   Javascript, JSX and CSS.
 
 # Dependencies
