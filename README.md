@@ -1,6 +1,6 @@
 # E-Commerce
 
-Ecommerce website to buy cryptocurrencies.
+Ecommerce website to emulate purchase of cryptocurrencies.
 
 ### Features
 
